@@ -7,5 +7,3 @@ This is my **first** project on GitHub.
 - one
 - two
 - three
- 
- I want to now how to review code.
